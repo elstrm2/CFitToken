@@ -1,4 +1,4 @@
-# CFITTOKEN - README 📄🚀🌟✨💫
+# CFITTOKEN 📄🚀
 
 ## ✨ Общее описание проекта
 
